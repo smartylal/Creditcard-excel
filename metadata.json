@@ -1,0 +1,5 @@
+{
+  "name": "StatementFlow",
+  "description": "Securely convert PDF bank statements into editable Excel or CSV formats instantly using AI.",
+  "requestFramePermissions": []
+}
